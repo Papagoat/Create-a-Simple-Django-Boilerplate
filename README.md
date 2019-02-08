@@ -28,10 +28,6 @@ $ python manage.py runserver
 ```
 Visit http://localhost:8000/ from your browser.
 
-If everything goes well, you should see the default Bootstrap4 Starter template screen.
-
-![alt text](https://raw.githubusercontent.com/papagoat/django-bootstrap4-boilerplate/master/screenshot.png)
-
 To access the admin page, you would need to create an admin superuser first.
 
 ```sh
