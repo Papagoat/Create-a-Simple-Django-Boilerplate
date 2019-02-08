@@ -1,4 +1,5 @@
 # Create a Simple Django Boilerplate
+[Follow the tutorial](http://terencelucasyap.com/create-simple-django-boilerplate-part-1/).
 
 ## Installation
 
